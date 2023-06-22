@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eco.Scheduling.FCFS", "Eco.Scheduling.FCFS.vcxproj", "{23636EB8-F9C1-42B7-B973-84ABADD3701B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		StaticDebug|Win32 = StaticDebug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23636EB8-F9C1-42B7-B973-84ABADD3701B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23636EB8-F9C1-42B7-B973-84ABADD3701B}.Debug|Win32.Build.0 = Debug|Win32
+		{23636EB8-F9C1-42B7-B973-84ABADD3701B}.Release|Win32.ActiveCfg = Release|Win32
+		{23636EB8-F9C1-42B7-B973-84ABADD3701B}.Release|Win32.Build.0 = Release|Win32
+		{23636EB8-F9C1-42B7-B973-84ABADD3701B}.StaticDebug|Win32.ActiveCfg = StaticDebug|Win32
+		{23636EB8-F9C1-42B7-B973-84ABADD3701B}.StaticDebug|Win32.Build.0 = StaticDebug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

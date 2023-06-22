@@ -1,0 +1,13 @@
+﻿Build started 20.06.2023 23:13:57.
+     1>Project "D:\dev\Eco.Scheduling.FCFS\Eco.Scheduling.FCFS.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Eco.Scheduling.FCFS.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\Eco.Scheduling.SJF\main.c
+         main.c
+     1>c1 : fatal error C1083: Cannot open source file: '..\Eco.Scheduling.SJF\main.c': No such file or directory
+     1>Done Building Project "D:\dev\Eco.Scheduling.FCFS\Eco.Scheduling.FCFS.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.21
